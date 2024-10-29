@@ -31,6 +31,7 @@ local colors = {
   accent_blue = "#191a20",
   accent_green = "#1c2019",
   accent_red = "#201919",
+  charcol = "#2F2F2F",
 }
 
 return colors
