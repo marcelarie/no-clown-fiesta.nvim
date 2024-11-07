@@ -3,6 +3,7 @@ local colors = {
   fg = "#E1E1E1",
   bg = "#151515",
   alt_bg = "#171717",
+  black = "#000000",
   accent = "#202020",
   white = "#E1E1E1",
   gray = "#373737",
@@ -31,7 +32,7 @@ local colors = {
   accent_blue = "#191a20",
   accent_green = "#1c2019",
   accent_red = "#201919",
-  charcol = "#2F2F2F",
+  charcol = "#202020",
 }
 
 return colors
